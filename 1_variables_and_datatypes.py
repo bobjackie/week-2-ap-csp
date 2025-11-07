@@ -63,7 +63,8 @@ print(f"{name} is {age} years old. Hungry? {hungry}")
 # class def return etc. 
 # loop_word = "test"
 
+
 # print("Variable naming rules followed successfully!\n")
 # # ----------------------------------------
-
+print ("Variable naming rules followed successfully")
 # # End of 1_variables_and_datatypes.py

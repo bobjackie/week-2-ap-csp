@@ -1,4 +1,4 @@
-name ="your name"
+name ="jacqueline sandoval"
 
 # Algorithm: A step-by-step set of instructions designed to perform a specific task.
 # Example Algorithm: Find the sum of two numbers
